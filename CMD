@@ -17,6 +17,7 @@ $SLACK_USER=alertmanager
 
 Deploy Grafana
 #docker stack deploy -c docker-compose.yml mon
-
+#docker service ls
+Every service online full replicas
 
 Port 3000
