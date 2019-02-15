@@ -17,3 +17,6 @@ $SLACK_USER=alertmanager
 
 Deploy Grafana
 #docker stack deploy -c docker-compose.yml mon
+
+
+Port 3000
